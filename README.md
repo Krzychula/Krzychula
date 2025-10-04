@@ -1,5 +1,4 @@
 
-<@510509158303531028> CRYPTO IS THE FUTURE repository :
 
 # 👋 Hi all! 
 
