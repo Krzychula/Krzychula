@@ -2,7 +2,7 @@
 
 # 👋 Hi all! 
 
-I'm Jack - Builder in the blockchain and crypto ecosystem. I focus on web3, smart contracts, and decentralized applications. Passionate about open-source, innovation, and pushing the boundaries of digital ownership.
+I'm Christopher - Builder in the blockchain and crypto ecosystem. I focus on web3, smart contracts, and decentralized applications. Passionate about open-source, innovation, and pushing the boundaries of digital ownership.
 
 ---
 
