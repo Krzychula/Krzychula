@@ -8,8 +8,8 @@ I'm Christopher - Builder in the blockchain and crypto ecosystem. I focus on web
 
 ## 🌐 Socials
 
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter\&logoColor=white)](https://x.com/AirdropsXPay)
-[![Farcaster](https://img.shields.io/badge/Farcaster-7B3FE4?logo=farcaster\&logoColor=white)](https://farcaster.xyz/mysticpol.eth)
+[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter\&logoColor=white)](https://x.com/Krzychulala)
+[![Farcaster](https://img.shields.io/badge/Farcaster-7B3FE4?logo=farcaster\&logoColor=white)](https://farcaster.xyz/krzchula)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?logo=discord\&logoColor=white)](https://discord.gg/6sMKzMMH8J)
 
 ---
